@@ -1,0 +1,4 @@
+playername(),search_Depth(4),weight_PawnPos(1),biaSpawnPosPieceCount(16),weightKnightsPos(1.3),weightBishopPos(0.8),weightRooksPos(1),weightQueenPos(1.1),weightCastlingBonus(0.4),score(1),average(1),isWinner(1)
+AI3 PiecePos-Analyzing_2,3.94,0.98,16.31,1.29,0.81,1.00,0.39,0.40,281.61400000000003,277.7402558139524,0.0
+AI3 PiecePos-Analyzing_3,3.93,0.98,15.94,1.31,0.79,1.01,0.40,0.39,275.681,277.7402558139524,0.0
+AI3 PiecePos-Analyzing_1,3.94,1.01,16.11,1.33,0.80,1.02,0.40,0.41,278.5229999999999,277.7402558139524,0.0
